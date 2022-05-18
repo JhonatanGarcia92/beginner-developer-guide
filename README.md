@@ -21,20 +21,35 @@
 - Automated tests (Integration Tests, Unit Tests, TDD, E2E, etc.)
 - Object Calisthenics
 
-#### Programming Logic
+#### Programming Logic (do some challenges, eg.)
+- Create a calculator
+- Create a Hangman game
 
 #### Programming Languages
-- HTML5, CSS3 (libs/frameworks ex: Materialize, Bootstrap, etc.)
-- JavaScript, ES6 (Frameworks JS (ex: Vue.js, React, Angular, etc.)
-- PHP (PSR's PHP, Framework LARAVEL, CMS PHP (Wordpress))
 
-#### Database
+##### Frontend
+- HTML5, CSS3 (libs/frameworks ex: Materialize, Bootstrap, etc.)
+- JavaScript (Frameworks JS (ex: Vue.js, React, Angular, etc.)
+
+##### Backend
+- PHP (PSR's PHP, Framework LARAVEL, CMS PHP (Wordpress))
+- Node.js, TypeScript (EC6, Framework Nest.js)
+
+##### Database
+- MySQL (MariaDB)
+- PostgresSQL
+- MongoDB
 
 #### Cloud Computing
+- Google Cloud Platform - GCP
+- Amazon Web Service - AWS
 
 #### Security Information
+- Pentest
 
 #### DevOps
+- CI/CD
+- Deploy
 
 
 
