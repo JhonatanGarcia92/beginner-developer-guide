@@ -8,6 +8,7 @@
 >I hope to help you and wish you luck and success
 
 #### Concepts (IMPORTANT)
+- HTTP Status Code
 - S.O.L.I.D.
 - Object Oriented
 - Design Patterns
@@ -20,6 +21,9 @@
 - Representational State Transfer (REST)
 - Automated tests (Integration Tests, Unit Tests, TDD, E2E, etc.)
 - Object Calisthenics
+- Tests
+- TDD (Test Drive Development)
+- DDD (Domain Drive Design)
 
 #### Programming Logic (do some challenges, eg.)
 - Create a calculator
