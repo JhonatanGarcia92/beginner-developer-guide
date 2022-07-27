@@ -1,17 +1,35 @@
+pt-br
+# Guia do desenvolvedor iniciante
+##### De desenvolvedor a novos desenvolvedores
+> Quer contribuir para melhorar este guia? faça seu PR.
+
+# Em construção...
+
+>Este guia tem como objetivo ajudar desenvolvedores iniciantes a conhecerem e iniciarem na área de desenvolvimento de software tendo uma base sólida, portanto, aqui está um método que ajudará você a ter o melhor começo ao meu ver.
+
+>espero te ajudar e te desejo sorte e sucesso!
+
+en-US
+
 # Beginner Developer Guide
 ##### From Developer to new developers
-> Want to contribute to improving this guide? do your PR
-# Creating
+> Want to contribute to improving this guide? do your PR.
 
->This guide aims to help beginner developers to get to know the software development area, so, here, is a method that will help you get the best start in my view.
+# Under construction...
 
->I hope to help you and wish you luck and success
+>This guide has as beginner developers to know and start the area of software development having a solid foundation, here is a method that can help you to improve your version.
+
+>I hope to help you and wish you luck and success!
 
 #### Concepts (IMPORTANT)
-- HTTP Status Code
-- S.O.L.I.D.
-- Object Oriented
-- Design Patterns
+- [HTTP Status Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [S.O.L.I.D.](https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530)
+  - [SOLID com TypeScript - Rodrigo Branas](https://www.youtube.com/watch?v=899Qa6sQcRc&ab_channel=RodrigoBranas)
+  - [CURSO PHP: AULA 24 (Design Patterns & Princípios: S.O.L.I.D.)](https://www.youtube.com/watch?v=Sg7eItfqOwM&ab_channel=85bits%28developer%29)
+- [Programação Orientado a Objetos - P.O.O](https://www.devmedia.com.br/os-4-pilares-da-programacao-orientada-a-objetos/9264)
+  - [PHP Orientado a Objetos - #01 Introdução](https://www.youtube.com/watch?v=hzy_P_H-1CQ&list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I&ab_channel=NodeStudioTreinamentos)
+  - [Java - Curso POO Teoria #01a - O que é Programação Orientada a Objetos](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&ab_channel=CursoemV%C3%ADdeo)
+- [Design Patterns](https://www.opus-software.com.br/design-patterns/)
 - MVC
 - Clean Code
 - Clean Coder
