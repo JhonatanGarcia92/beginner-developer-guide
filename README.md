@@ -75,4 +75,4 @@ en-US
 
 
 Some links to help study
-[Aprenda a Programar - Rodrigo Branas Playlist](https://www.youtube.com/watch?v=7ljlAJNwyPw&ab_channel=RodrigoBranas)
+[Aprenda a Programar - Rodrigo Branas Playlist](https://www.youtube.com/playlist?list=PLQCmSnNFVYnSP1w3ugIZbxwR-QLO1hvlR)
