@@ -30,8 +30,12 @@ en-US
   - [PHP Orientado a Objetos - #01 Introdução](https://www.youtube.com/watch?v=hzy_P_H-1CQ&list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I&ab_channel=NodeStudioTreinamentos)
   - [Java - Curso POO Teoria #01a - O que é Programação Orientada a Objetos](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&ab_channel=CursoemV%C3%ADdeo)
 - [Design Patterns](https://www.opus-software.com.br/design-patterns/)
-- MVC
-- Clean Code
+- [MVC](https://youtu.be/jyTNhT67ZyY?t=12)
+  - [O que é padrão MVC? Entenda arquitetura de softwares!](https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc#:~:text=O%20MVC%20%C3%A9%20uma%20sigla,sejam%20mais%20r%C3%A1pidas%20e%20din%C3%A2micas.)
+- [Clean Code](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi19vaS_oj6AhUSMpEKHYgCBxgYABAKGgJjZQ&ohost=www.google.com&cid=CAESauD2EKg-xQZG26zlwsZ6PV5k3eUShxIvc0cHp-HkV7nYBhU0Fu_1qVgs4AVuYfKN7x9Ye5AZECDH-KmGF-Vj6EvdMqNVtICmiDP_wqOzG-B_M4mHBIDjF8ryuLhTdb7PJ8Q9MHzKOZ1H3h4&sig=AOD64_1RuwhZ-TxYydptgP3H4toPWnjCsg&ctype=5&q=&ved=2ahUKEwjexe-S_oj6AhV4qJUCHeN2CfYQ9aACKAB6BAgEEAs&adurl=)
+  - [live Rodrigo Branas e Wesley Williams](https://www.youtube.com/watch?v=Jw3oqUyPsL4)
+  - [live Rodrigo Branas](https://www.youtube.com/watch?v=tlqpNTFa_YQ)
+  - [artigo Baltaio](https://balta.io/artigos/clean-code)
 - Clean Coder
 - Clean Archtecture
 - Source Code Versioning (GIT)
