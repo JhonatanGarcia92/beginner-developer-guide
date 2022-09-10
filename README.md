@@ -17,9 +17,10 @@ en-US
 
 # Under construction...
 
->This guide has as beginner developers to know and start the area of software development having a solid foundation, here is a method that can help you to improve your version.
+>This guide has targets to help beginner developers to know and start the area of software development by having a solid foundation, here is a method that can help you to improve your version.
 
 >I hope to help you and wish you luck and success!
+
 
 #### Concepts (IMPORTANT)
 - [HTTP Status Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
@@ -58,13 +59,17 @@ en-US
 - JavaScript (Frameworks JS (ex: Vue.js, React, Angular, etc.)
 
 ##### Backend
-- PHP (PSR's PHP, Framework LARAVEL, CMS PHP (Wordpress))
+- PHP (PSR's PHP, Framework LARAVEL, CMS PHP (WordPress))
 - Node.js, TypeScript (EC6, Framework Nest.js)
 
 ##### Database
 - MySQL (MariaDB)
 - PostgresSQL
 - MongoDB
+
+##### Cache
+- Redis
+- Memcached
 
 #### Cloud Computing
 - Google Cloud Platform - GCP
