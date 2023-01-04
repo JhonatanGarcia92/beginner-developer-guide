@@ -24,6 +24,9 @@ en-US
 
 #### Concepts (IMPORTANT)
 - [HTTP Status Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [GIT - Source Code Versioning](https://git-scm.com/)
+  - [Dicionário do Programador](https://www.youtube.com/watch?v=za5KWZ5pRag)
+- [GITHUB](https://www.youtube.com/watch?v=kB5e-gTAl_s&t=13s&ab_channel=DevAprender)
 - [S.O.L.I.D.](https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530)
   - [SOLID com TypeScript - Rodrigo Branas](https://www.youtube.com/watch?v=899Qa6sQcRc&ab_channel=RodrigoBranas)
   - [CURSO PHP: AULA 24 (Design Patterns & Princípios: S.O.L.I.D.)](https://www.youtube.com/watch?v=Sg7eItfqOwM&ab_channel=85bits%28developer%29)
@@ -39,7 +42,6 @@ en-US
   - [artigo Baltaio](https://balta.io/artigos/clean-code)
 - Clean Coder
 - Clean Archtecture
-- Source Code Versioning (GIT)
 - Hypertext Transfer Protocol (HTTP x HTTPS and ALL STATUS CODE)
 - Representational State Transfer (REST)
 - Automated tests (Integration Tests, Unit Tests, TDD, E2E, etc.)
